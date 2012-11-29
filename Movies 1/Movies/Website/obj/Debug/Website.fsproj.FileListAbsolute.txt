@@ -1,0 +1,5 @@
+c:\Projects\Movies\Movies\Website\bin\Debug\Website.dll
+c:\Projects\Movies\Movies\Website\bin\Debug\Website.pdb
+c:\Projects\Movies\Movies\Website\obj\Debug\ResolveAssemblyReference.cache
+c:\Projects\Movies\Movies\Website\obj\Debug\Website.dll
+c:\Projects\Movies\Movies\Website\obj\Debug\Website.pdb
